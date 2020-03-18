@@ -1,0 +1,4 @@
+rootfs
+test.txt.gz
+*.org
+*.bak
